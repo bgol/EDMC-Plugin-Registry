@@ -6,7 +6,8 @@ When submitting your plugin for listing, you agree to follow these standards on 
 
 ## Versioning
 (Note: VERSION constant or dunder requirement will not be enforced until later versions of EDMC support auto update functionality.)
-Plugins listed must provide a VERSION constant or `__version__` dunder, in the format of a string compatible with Semantic Versioning. This will be called by EDMC in order to compare the most recent version of a plugin against the current installed version. Version strings should always be in the format of strict Semantic Versioning, such as `Major.Minor.Patch`. For more information about Semantic Versioning, visit [semver.org](https://semver.org/#semantic-versioning-specification-semver). 
+
+Plugins listed should provide a VERSION constant or `__version__` dunder, in the format of a string compatible with Semantic Versioning. This will be called by EDMC in order to compare the most recent version of a plugin against the current installed version. Version strings should always be in the format of strict Semantic Versioning, such as `Major.Minor.Patch`. For more information about Semantic Versioning, visit [semver.org](https://semver.org/#semantic-versioning-specification-semver). 
 
 ## Compatibilty
 You are responsible for keeping your plugin compatible with the most recent versions of EDMC. When EDMC adds or removes functionality, you are responsible for keeping your plugin updated in a timely manner. If a plugin is not updated between versions or a significant number of users report that the plugin is not compatible with the most recent versions of EDMC, your plugin will be removed.

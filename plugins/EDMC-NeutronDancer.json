@@ -9,7 +9,7 @@
     "pluginLastUpdate": "2026-01-03",
     "pluginDirName": "EDMC-NeutronDancer",
     "pluginCategory": ["Navigation", "Exploration"],
-    "pluginDesc": "Simplifies Spansh Neutron (and other) routing.",
+    "pluginDesc": "Simplifies/automates Spansh Neutron (and other) routing.",
     "pluginLastTestedEDMC": "6.0.2",
     "pluginRequirements": [],
     "pluginLicense": "MIT License",

@@ -48,7 +48,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/997e178c8a0968346e37efb2bc29f9f73c308c247a595355b3279f3cc93b9924?nocache=1",
     "pluginHash": "",
-    "pluginStars": "16"
+    "pluginStars": "18"
   },
   {
     "pluginName": "EDMC-NeutronDancer",
@@ -73,7 +73,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/66a3ba29e64222122fe0b174c54bd0105ca025117ad242a12dbd4edd7443aa41/details",
     "pluginHash": "66a3ba29e64222122fe0b174c54bd0105ca025117ad242a12dbd4edd7443aa41",
-    "pluginStars": "5"
+    "pluginStars": "7"
   },
   {
     "pluginName": "EDMCModernOverlay",
@@ -102,7 +102,7 @@
     "pluginIcon": "https://github.com/SweetJonnySauce/EDMCModernOverlay/blob/main/extras/EDMCModernOverlay.ico",
     "pluginVT": "https://github.com/SweetJonnySauce/EDMCModernOverlay/releases/download/0.7.6/vt-transparency.html",
     "pluginHash": "",
-    "pluginStars": "29"
+    "pluginStars": "32"
   },
   {
     "pluginName": "LandingPad",
@@ -127,7 +127,7 @@
     "pluginIcon": "",
     "pluginVT": "https://www.virustotal.com/gui/file/4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
     "pluginHash": "4523a3640e107049ff9f029fafd2032dbd66db77f1bd7f4d200751d7642d11c1",
-    "pluginStars": "41"
+    "pluginStars": "42"
   },
   {
     "pluginName": "UpdateTD",
